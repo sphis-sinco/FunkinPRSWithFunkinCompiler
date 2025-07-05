@@ -1,13 +1,13 @@
 {
-  "title": "Template mod",
-  "description": "look around and find out",
+  "title": "FunkinPR's",
+  "description": "A mod for my pr's",
   "contributors": [
     {
-      "name": "Unknown Author",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "name": "sphis_sinco",
+      "url": "https://www.youtube.com/@sphis_sinco"
     }
   ],
-  "api_version": "0.6.3",
+  "api_version": "0.6.4",
   "mod_version": "1.0.0",
   "license": "CC BY 4.0,MIT"
 }

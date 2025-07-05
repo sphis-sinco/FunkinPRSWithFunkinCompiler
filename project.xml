@@ -1,10 +1,9 @@
 <project>
 
-	<meta title="Hello World" z version="1.0.0" company="OpenFL" />
-	<app  main="Main" path="main" file="HelloWorld" />
+	<meta title="Funkin PR's" version="1.0.0" company="OpenFL" />
+	<app  main="Main" path="main" file="FunkinPR" />
 	<classpath name="source" />
 	<classpath name="source/mod" />
-
 
 	<haxelib name="funkin"/>
 	<haxelib name="lime" />
